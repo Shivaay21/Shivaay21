@@ -29,12 +29,6 @@ One-time download links · Expiring URLs · QR sharing · AWS EC2 + Nginx + Post
 
 ---
 
-### 📊 GitHub Stats
-
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivaay21&show_icons=true&theme=github_dark&hide_border=true)
-
----
-
 ### 🎯 Currently
 
 - 🔍 Looking for **Backend Developer / SDE-1** roles (India + UAE + Singapore)
